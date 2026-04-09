@@ -9,6 +9,7 @@
 [![GitHub stars](https://img.shields.io/github/stars/nageoffer/awesome-ai-handbook?style=social)](https://github.com/你的用户名/awesome-ai-handbook)
 [![License: Apache2.0](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/Apache-2.0)
 
+[在线阅读](https://nageoffer.com/awesome-ai-handbook) •
 [为什么做这个项目](#-为什么做这个项目) •
 [目录](#-目录) •
 [如何贡献](#-贡献) •
@@ -26,13 +27,12 @@
 
 这个仓库就是为了解决这些问题 —— **一份持续更新的 AI 工程师成长手册**。
 
-## 📚 目录
+## 📚 目录导航
 
-### 🧭 成长路径
-
-| # | 文章 | 状态 |
-|---|------|:----:|
-| 01 | [程序员如何成长为 AI 工程师](./docs/growth/01-how-to-become-ai-engineer.md) | ✅ |
+| 章节 | 关键内容 | 状态 |
+|------|---------|:----:|
+| **🧭 成长路径** | | |
+| [程序员如何成长为 AI 工程师](./docs/growth/01-how-to-become-ai-engineer.md) | AI 工程师定位、学习路线与技术栈 | ✅ |
 
 TODO
 
