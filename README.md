@@ -6,10 +6,10 @@
 
 系统梳理 AI 基础、LLM、RAG、Agent 等核心知识，助你从入门到拿下 AI Offer。
 
-[![GitHub stars](https://img.shields.io/github/stars/nageoffer/awesome-ai-handbook?style=social)](https://github.com/你的用户名/awesome-ai-handbook)
-[![License: Apache2.0](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/Apache-2.0)
+[![GitHub stars](https://img.shields.io/github/stars/nageoffer/awesome-ai-handbook?style=social)](https://github.com/nageoffer/awesome-ai-handbook)
+[![License: Apache2.0](https://img.shields.io/badge/License-Apache2.0-yellow.svg)](https://opensource.org/licenses/Apache-2.0)
 
-[在线阅读](https://nageoffer.com/awesome-ai-handbook) •
+[在线阅读](https://nageoffer.com/ai) •
 [为什么做这个项目](#-为什么做这个项目) •
 [目录](#-目录) •
 [如何贡献](#-贡献) •
