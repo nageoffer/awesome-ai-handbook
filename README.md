@@ -107,9 +107,10 @@
 | [18、跨品类编排：对比、搭配与售后一起跑](./docs/agent/planning-and-orchestration/18-cross-category-orchestration.md)      | Tool、Skill 与 Plan-and-Execute 组合编排实战 | ✅ |
 | [19、Reflection：让 Agent 学会自我纠错](./docs/agent/planning-and-orchestration/19-reflection-error-handling.md) | 三级反思结论与重试、重规划错误恢复机制 | ✅ |
 | [20、RAG 作为 Tool：让 Agent 自主决定何时检索](./docs/agent/planning-and-orchestration/20-rag-as-tool.md)            | pgvector 向量检索、知识导入与三道工具决策防线 | ✅ |
-| **第五部分：多智能体**                                                                                          | | |
-| [21、多智能体架构全景：从单体到专家团队](./docs/agent/multi-agent/21-multi-agent-landscape.md)                    | Agent 四要素、协作范式与任务驱动的架构选型 | ✅ |
-| [22、手写主从式多智能体：主 Agent 编排子 Agent](./docs/agent/multi-agent/22-multi-agent-supervisor.md)            | SpecialistAgent、子 Agent 即工具与 LLM Supervisor 编排 | ✅ |
+| **第五部分：多智能体**                                                                                           | | |
+| [21、多智能体架构全景：从单体到专家团队](./docs/agent/multi-agent/21-multi-agent-landscape.md)                            | Agent 四要素、协作范式与任务驱动的架构选型 | ✅ |
+| [22、手写主从式多智能体：主 Agent 编排子 Agent](./docs/agent/multi-agent/22-multi-agent-supervisor.md)                 | SpecialistAgent、子 Agent 即工具与 LLM Supervisor 编排 | ✅ |
+| [23、主从式的上下文与通信：消除上下文割裂](./docs/agent/multi-agent/23-multi-agent-communication.md)                       | AgenticScope、MessageHub、结果聚合与依赖 Handoff | ✅ |
 
 ## 💼 AI Agent 面试题库
 
